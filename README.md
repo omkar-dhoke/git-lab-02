@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  HEAD
 # git-lab-01
 
@@ -12,3 +13,6 @@ this project is a git practice lab.
 =======
 # Git Lab Project (Main Branch Version)
 >>>>>>> e709164 (Change title from main branch)
+=======
+# Git Lab Project (Feature Branch Version)
+>>>>>>> 716551a (change title from feature branch)
